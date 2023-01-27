@@ -1,0 +1,40 @@
+body {
+    background-color: #d9d9d9ff;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.header1 {
+    grid-area: header;
+    background-color: #eeeeee;
+    padding: 1px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.CARS_txt {
+    text-align: center;
+    font-size: x-large;
+}
+
+.row1 {
+    float: left;
+    font-size: xx-large;
+}
+
+.row2 {
+    float: right;
+    font-size: xx-large;
+}
+
+.footer {
+    grid-area: footer;
+    background-color: #eeeeee;
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+
+a {
+    color: black;
+}
